@@ -87,22 +87,6 @@ python CRICKET.py
 
 ---
 
-## Screenshots
-
-### Home Screen
-
-![Home Screen](images/home_screen.png)
-
-### Gameplay
-
-![Gameplay](images/gameplay.png)
-
-### Match Result
-
-![Match Result](images/match_result.png)
-
----
-
 ## Game Assets
 
 The project uses custom images and sprites stored in the `images/` folder, including:
